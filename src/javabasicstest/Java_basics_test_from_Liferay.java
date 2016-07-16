@@ -12,7 +12,11 @@ public class Java_basics_test_from_Liferay {
 		
 //		Question 2 : What will be the output of the program?
 //		Answer 2: 117
+//		Reason: The program will first add the 2 ints together and then convert them to string
 		
+//		Question 3 : What will be the output of the program?
+//		Answer 3: Compilation error.
+//		Reason: i can not be resolved as a variable
 		
 		
 	}
