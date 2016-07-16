@@ -18,6 +18,10 @@ public class Java_basics_test_from_Liferay {
 //		Answer 3: Compilation error.
 //		Reason: i can not be resolved as a variable
 		
+//		Question 4 : What will be the output of the program?
+//		Answer 4: AAACCC.
+//		Reason: Upcasting works because String is also an Object
+		
 		
 	}
 
