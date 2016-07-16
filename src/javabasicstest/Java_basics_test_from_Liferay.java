@@ -21,7 +21,14 @@ public class Java_basics_test_from_Liferay {
 //		Question 4 : What will be the output of the program?
 //		Answer 4: AAACCC.
 //		Reason: Upcasting works because String is also an Object
+
+//		Question 5 : What will be the output of the program?
+//		Answer 5: AC BD is the output, but the order can not be guaranteed in which threads are going to run
+//		Reason: 
 		
+//		Question 6 : What will be the output of the program?
+//		Answer 6: Compilation error in line 9
+//		Reason: The y variable must be final static because 'case' needs constants
 		
 	}
 
