@@ -10,6 +10,9 @@ public class Java_basics_test_from_Liferay {
 //		Question 1 : What will be the output of the program?
 //		Answer 1: 0 42 42
 		
+//		Question 2 : What will be the output of the program?
+//		Answer 2: 117
+		
 		
 		
 	}
